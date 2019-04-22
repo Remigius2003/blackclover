@@ -5,7 +5,7 @@ bot.on('ready', function () {
   console.log("Le BOT est ON!")
 })
 
-bot.login('NTAyMTc3MjkxNzExODA3NDg4.D0MP6A.2tkxEqzyqRPmt6fAhdj-p9OLQcM')
+bot.login(process.env.TOKEN)
 
 bot.on('guildMemberAdd', member => {
   member.addRole('544502854111461396')
