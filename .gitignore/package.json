@@ -1,0 +1,14 @@
+{
+  "name": "Black Clover BOT",
+  "version": "0.0.8"
+  "description": "",
+  "main": "blackclover.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "Remigius",
+   "license": "ISC",
+   "dependencies": {
+     "discord.js": "^11.2.1"
+    }
+}
