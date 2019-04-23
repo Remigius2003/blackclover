@@ -8,4 +8,7 @@
   },
   "author": "Remigius",
   "license": "ISC"
+  "engines": {
+    "node": "10.15.1"
+  }
 }
